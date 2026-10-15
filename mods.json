@@ -6,7 +6,16 @@
     "author": "Takoro",
     "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v4.zip",
     "description": "Mod v4 - Basic Edition",
-    "status": "available"
+    "status": "available",
+    "reviewImages": [
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v4_1.png"
+    ],
+    "features": [
+      "Aimbot Basic",
+      "ESP Line",
+      "No Recoil",
+      "Anti-Ban"
+    ]
   },
   {
     "id": "v5",
@@ -15,7 +24,18 @@
     "author": "Takoro",
     "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v5.zip",
     "description": "Mod v5 - Standard Edition",
-    "status": "available"
+    "status": "available",
+    "reviewImages": [
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v5_1.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v5_2.png"
+    ],
+    "features": [
+      "Aimbot Pro",
+      "ESP Box",
+      "No Recoil",
+      "Magic Bullet",
+      "Anti-Ban"
+    ]
   },
   {
     "id": "v6",
@@ -24,7 +44,13 @@
     "author": "Takoro",
     "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v6.zip",
     "description": "Mod v6 - Improved Edition",
-    "status": "available"
+    "status": "available",
+    "reviewImages": [],
+    "features": [
+      "Aimbot Pro",
+      "ESP Full",
+      "No Recoil"
+    ]
   },
   {
     "id": "v7",
@@ -33,7 +59,9 @@
     "author": "Takoro",
     "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v7.zip",
     "description": "Mod v7 - Pro Edition",
-    "status": "available"
+    "status": "available",
+    "reviewImages": [],
+    "features": []
   },
   {
     "id": "v8",
@@ -42,7 +70,9 @@
     "author": "Takoro",
     "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8.zip",
     "description": "Mod v8 - Advanced Edition",
-    "status": "available"
+    "status": "available",
+    "reviewImages": [],
+    "features": []
   },
   {
     "id": "v9",
@@ -51,7 +81,21 @@
     "author": "Takoro",
     "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9.zip",
     "description": "Mod v9 - Ultimate Edition",
-    "status": "available"
+    "status": "available",
+    "reviewImages": [
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_1.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_2.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_3.png"
+    ],
+    "features": [
+      "Aimbot Pro Max",
+      "ESP Full Box",
+      "No Recoil Ultra",
+      "Magic Bullet",
+      "Speed Hack",
+      "Wall Hack",
+      "Anti-Ban Premium"
+    ]
   },
   {
     "id": "v10",
@@ -60,6 +104,8 @@
     "author": "Takoro",
     "url": "",
     "description": "Mod v10 - Coming Soon",
-    "status": "coming_soon"
+    "status": "coming_soon",
+    "reviewImages": [],
+    "features": []
   }
 ]
