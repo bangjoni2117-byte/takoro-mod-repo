@@ -69,10 +69,27 @@
     "version": "v8",
     "author": "Takoro",
     "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8.zip",
-    "description": "Mod v8 - Advanced Edition",
+    "description": "Mod v8 - Setting Menu Default& Bypass Strong",
     "status": "available",
-    "reviewImages": [],
-    "features": []
+    "reviewImages": [
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_1.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_2.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_3.png"
+    ],
+    "features": [
+      "Aimbot OLD",
+      "Antena",
+      "AimTouch Pro",
+      "ESP Full",
+      "Radar Esp",
+      "Health Bar Esp",
+      "Distance Esp",
+      "Compensasi Recoil",
+      "Skin Hack Ingame",
+      "Skin Hack Lobby",
+      "Wall Hack",
+      "Ipad View"
+    ]
   },
   {
     "id": "v9",
@@ -80,7 +97,7 @@
     "version": "v9",
     "author": "Takoro",
     "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9.zip",
-    "description": "Mod v9 - Ultimate Edition",
+    "description": "Mod v9 - UI MENU Ultimate Edition New Bypass",
     "status": "available",
     "reviewImages": [
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_1.png",
