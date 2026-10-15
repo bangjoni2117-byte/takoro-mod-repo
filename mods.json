@@ -4,11 +4,15 @@
     "name": "Mod v4",
     "version": "v4",
     "author": "Takoro",
-    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v4.zip",
     "description": "Mod v4 - Basic Edition",
     "status": "available",
-    "reviewImages": [
+    "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v4.zip",
+    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v4free.zip",
+    "reviewImagesVip": [
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v4_1.png"
+    ],
+    "reviewImagesFree": [
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v4_free_1.png"
     ],
     "features": [
       "Aimbot Basic",
@@ -22,12 +26,16 @@
     "name": "Mod v5",
     "version": "v5",
     "author": "Takoro",
-    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v5.zip",
     "description": "Mod v5 - Standard Edition",
     "status": "available",
-    "reviewImages": [
+    "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v5.zip",
+    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v5free.zip",
+    "reviewImagesVip": [
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v5_1.png",
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v5_2.png"
+    ],
+    "reviewImagesFree": [
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v5_free_1.png"
     ],
     "features": [
       "Aimbot Pro",
@@ -42,10 +50,12 @@
     "name": "Mod v6",
     "version": "v6",
     "author": "Takoro",
-    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v6.zip",
     "description": "Mod v6 - Improved Edition",
     "status": "available",
-    "reviewImages": [],
+    "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v6.zip",
+    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v6free.zip",
+    "reviewImagesVip": [],
+    "reviewImagesFree": [],
     "features": [
       "Aimbot Pro",
       "ESP Full",
@@ -57,10 +67,12 @@
     "name": "Mod v7",
     "version": "v7",
     "author": "Takoro",
-    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v7.zip",
     "description": "Mod v7 - Pro Edition",
     "status": "available",
-    "reviewImages": [],
+    "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v7.zip",
+    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v7free.zip",
+    "reviewImagesVip": [],
+    "reviewImagesFree": [],
     "features": []
   },
   {
@@ -68,14 +80,16 @@
     "name": "Mod v8",
     "version": "v8",
     "author": "Takoro",
-    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8.zip",
-    "description": "Mod v8 - Setting Menu Default& Bypass Strong",
+    "description": "Mod v8 - Setting Menu Default & Bypass Strong",
     "status": "available",
-    "reviewImages": [
+    "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8.zip",
+    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8free.zip",
+    "reviewImagesVip": [
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_1.png",
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_2.png",
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_3.png"
     ],
+    "reviewImagesFree": [],
     "features": [
       "Aimbot OLD",
       "Antena",
@@ -96,14 +110,16 @@
     "name": "Mod v9",
     "version": "v9",
     "author": "Takoro",
-    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9.zip",
     "description": "Mod v9 - UI MENU Ultimate Edition New Bypass",
     "status": "available",
-    "reviewImages": [
+    "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9.zip",
+    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9free.zip",
+    "reviewImagesVip": [
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_1.png",
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_2.png",
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_3.png"
     ],
+    "reviewImagesFree": [],
     "features": [
       "AimTouch Pro",
       "ESP Full",
@@ -115,7 +131,6 @@
       "Skin Hack Lobby",
       "Wall Hack",
       "Ipad View"
-    
     ]
   },
   {
@@ -123,10 +138,12 @@
     "name": "Mod v10",
     "version": "v10",
     "author": "Takoro",
-    "url": "",
     "description": "Mod v10 - Coming Soon",
     "status": "coming_soon",
-    "reviewImages": [],
+    "urlVip": "",
+    "urlFree": "",
+    "reviewImagesVip": [],
+    "reviewImagesFree": [],
     "features": []
   }
 ]
