@@ -1,18 +1,65 @@
 [
   {
-    "id": "v1",
-    "name": "Mod Basic v1",
-    "version": "v1",
+    "id": "v4",
+    "name": "Mod v4",
+    "version": "v4",
     "author": "Takoro",
-    "url": "https://github.com/USERNAME/takoro-mods/raw/main/v1.zip",
-    "description": "Mod ringan untuk pemula"
+    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v4.zip",
+    "description": "Mod v4 - Basic Edition",
+    "status": "available"
   },
   {
-    "id": "v2",
-    "name": "Mod Pro v2",
-    "version": "v2",
+    "id": "v5",
+    "name": "Mod v5",
+    "version": "v5",
     "author": "Takoro",
-    "url": "https://github.com/USERNAME/takoro-mods/raw/main/v2.zip",
-    "description": "Mod lengkap dengan banyak fitur"
+    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v5.zip",
+    "description": "Mod v5 - Standard Edition",
+    "status": "available"
+  },
+  {
+    "id": "v6",
+    "name": "Mod v6",
+    "version": "v6",
+    "author": "Takoro",
+    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v6.zip",
+    "description": "Mod v6 - Improved Edition",
+    "status": "available"
+  },
+  {
+    "id": "v7",
+    "name": "Mod v7",
+    "version": "v7",
+    "author": "Takoro",
+    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v7.zip",
+    "description": "Mod v7 - Pro Edition",
+    "status": "available"
+  },
+  {
+    "id": "v8",
+    "name": "Mod v8",
+    "version": "v8",
+    "author": "Takoro",
+    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8.zip",
+    "description": "Mod v8 - Advanced Edition",
+    "status": "available"
+  },
+  {
+    "id": "v9",
+    "name": "Mod v9",
+    "version": "v9",
+    "author": "Takoro",
+    "url": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9.zip",
+    "description": "Mod v9 - Ultimate Edition",
+    "status": "available"
+  },
+  {
+    "id": "v10",
+    "name": "Mod v10",
+    "version": "v10",
+    "author": "Takoro",
+    "url": "",
+    "description": "Mod v10 - Coming Soon",
+    "status": "coming_soon"
   }
 ]
