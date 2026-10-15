@@ -1,0 +1,18 @@
+[
+  {
+    "id": "v1",
+    "name": "Mod Basic v1",
+    "version": "v1",
+    "author": "Takoro",
+    "url": "https://github.com/USERNAME/takoro-mods/raw/main/v1.zip",
+    "description": "Mod ringan untuk pemula"
+  },
+  {
+    "id": "v2",
+    "name": "Mod Pro v2",
+    "version": "v2",
+    "author": "Takoro",
+    "url": "https://github.com/USERNAME/takoro-mods/raw/main/v2.zip",
+    "description": "Mod lengkap dengan banyak fitur"
+  }
+]
