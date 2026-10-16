@@ -1,16 +1,23 @@
 [
- 
   {
     "id": "v6",
     "name": "Mod v6",
     "version": "v6",
     "author": "Takoro",
     "description": "Mod v6 - Improved Edition",
-    "status": "READY ONLY FOR VIP MEMBER",
+    "status": "available",
     "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v6.zip",
     "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v6free.zip",
-    "reviewImagesVip": [],
-    "reviewImagesFree": [],
+    "reviewImagesVip": [
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v6_1.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v6_2.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v6_3.png"
+    ],
+    "reviewImagesFree": [
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v6_free_1.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v6_free_2.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v6_free_3.png"
+    ],
     "features": [
       "Aimbot Pro",
       "ESP Full",
@@ -22,21 +29,38 @@
     "name": "Mod v7",
     "version": "v7",
     "author": "Takoro",
-    "description": "v7 NEW STRONG BYPASS (ONLY VIP)",
-    "status": "READY ONLY FOR VIP MEMBER",
+    "description": "Mod v7 - New Strong Bypass (VIP Only)",
+    "status": "available",
     "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v7.zip",
-    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v7free.zip",
-    "reviewImagesVip": [],
+    "urlFree": "",
+    "reviewImagesVip": [
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v7_1.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v7_2.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v7_3.png"
+    ],
     "reviewImagesFree": [],
-    "features": []
+    "features": [
+      "Wall Hack",
+      "Compensasi Recoil",
+      "Skin Hack Lobby",
+      "Radar Esp",
+      "Ipad View",
+      "Aimbot OLD",
+      "Health Bar Esp",
+      "Antena",
+      "Skin Hack Ingame",
+      "AimTouch Pro",
+      "ESP Full",
+      "Distance Esp"
+    ]
   },
   {
     "id": "v8",
     "name": "Mod v8",
     "version": "v8",
     "author": "Takoro",
-    "description": "v8 - NEW MENU + STRONG BYPASS - FOR FREE MEMBER ONLY SKIN HACK",
-    "status": "READY ONLY FOR VIP MEMBER",
+    "description": "Mod v8 - New Menu + Strong Bypass (VIP: Full, FREE: Skin Hack Only)",
+    "status": "available",
     "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8.zip",
     "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8free.zip",
     "reviewImagesVip": [
@@ -48,7 +72,6 @@
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_free_1.png",
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_free_2.png",
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_free_3.png"
-    
     ],
     "features": [
       "Aimbot OLD",
@@ -70,8 +93,8 @@
     "name": "Mod v9",
     "version": "v9",
     "author": "Takoro",
-    "description": "Mod v9 - UI MENU Ultimate Edition New Bypass",
-    "status": "READY FOR VIP MEMBER & FREE MEMBER (DEFREND MOD & BYPASS)",
+    "description": "Mod v9 - UI Menu Ultimate Edition New Bypass (VIP & FREE)",
+    "status": "available",
     "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9.zip",
     "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9free.zip",
     "reviewImagesVip": [
@@ -102,121 +125,7 @@
     "name": "Mod v10",
     "version": "v10",
     "author": "Takoro",
-    "description": "Mod v10 - Coming Soon 17-0ct-2026",
-    "status": "coming_soon",
-    "urlVip": "",
-    "urlFree": "",
-    "reviewImagesVip": [],
-    "reviewImagesFree": [],
-    "features": []
-  }
-]
-
-    "reviewImagesFree": [
-      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v5_free_1.png"
-    ],
-    "features": [
-      "Aimbot Pro",
-      "ESP Box",
-      "No Recoil",
-      "Magic Bullet",
-      "Anti-Ban"
-    ]
-  },
-  {
-    "id": "v6",
-    "name": "Mod v6",
-    "version": "v6",
-    "author": "Takoro",
-    "description": "Mod v6 - Improved Edition",
-    "status": "available",
-    "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v6.zip",
-    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v6free.zip",
-    "reviewImagesVip": [],
-    "reviewImagesFree": [],
-    "features": [
-      "Aimbot Pro",
-      "ESP Full",
-      "No Recoil"
-    ]
-  },
-  {
-    "id": "v7",
-    "name": "Mod v7",
-    "version": "v7",
-    "author": "Takoro",
-    "description": "Mod v7 - Pro Edition",
-    "status": "available",
-    "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v7.zip",
-    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v7free.zip",
-    "reviewImagesVip": [],
-    "reviewImagesFree": [],
-    "features": []
-  },
-  {
-    "id": "v8",
-    "name": "Mod v8",
-    "version": "v8",
-    "author": "Takoro",
-    "description": "Mod v8 - Setting Menu Default & Bypass Strong",
-    "status": "available",
-    "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8.zip",
-    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8free.zip",
-    "reviewImagesVip": [
-      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_1.png",
-      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_2.png",
-      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v8_3.png"
-    ],
-    "reviewImagesFree": [],
-    "features": [
-      "Aimbot OLD",
-      "Antena",
-      "AimTouch Pro",
-      "ESP Full",
-      "Radar Esp",
-      "Health Bar Esp",
-      "Distance Esp",
-      "Compensasi Recoil",
-      "Skin Hack Ingame",
-      "Skin Hack Lobby",
-      "Wall Hack",
-      "Ipad View"
-    ]
-  },
-  {
-    "id": "v9",
-    "name": "Mod v9",
-    "version": "v9",
-    "author": "Takoro",
-    "description": "Mod v9 - UI MENU Ultimate Edition New Bypass",
-    "status": "available",
-    "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9.zip",
-    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9free.zip",
-    "reviewImagesVip": [
-      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_1.png",
-      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_2.png",
-      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_3.png"
-    ],
-    "reviewImagesFree": [],
-    "features": [
-      "AimTouch Pro",
-      "ESP Full",
-      "Radar Esp",
-      "Health Bar Esp",
-      "Distance Esp",
-      "Compensasi Recoil",
-      "Skin Hack Ingame",
-      "Skin Hack Lobby",
-      "Wall Hack",
-      "Ipad View"
-    ]
-  },
-  {
-    "id": "v10",
-    "name": "Mod v10",
-    "version": "v10",
-    "author": "Takoro",
-    "description": "Mod v10 - Coming Soon",
+    "description": "Mod v10 - Coming Soon 17-Oct-2026",
     "status": "coming_soon",
     "urlVip": "",
     "urlFree": "",
