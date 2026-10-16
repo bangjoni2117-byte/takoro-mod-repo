@@ -4,7 +4,7 @@
     "name": "Mod v6",
     "version": "v6",
     "author": "Takoro",
-    "description": "Mod v6 - Improved Edition",
+    "description": "Mod v6 - Improved Edition (VIP Only)",
     "status": "available",
     "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v6.zip",
     "urlFree": "",
@@ -13,11 +13,7 @@
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v6_2.png",
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v6_3.png"
     ],
-    "reviewImagesFree": [
-      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v6_free_1.png",
-      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v6_free_2.png",
-      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v6_free_3.png"
-    ],
+    "reviewImagesFree": [],
     "features": [
       "Aimbot Pro",
       "ESP Full",
