@@ -17,8 +17,10 @@
     "features": [
       "Aimbot Pro",
       "ESP Full",
-      "No Recoil"
-    ]
+      "No Recoil",
+      "Anti-Ban"
+    ],
+    "featuresFree": []
   },
   {
     "id": "v7",
@@ -48,14 +50,15 @@
       "AimTouch Pro",
       "ESP Full",
       "Distance Esp"
-    ]
+    ],
+    "featuresFree": []
   },
   {
     "id": "v8",
     "name": "Mod v8",
     "version": "v8",
     "author": "Takoro",
-    "description": "Mod v8 - New Menu + Strong Bypass (VIP: Full, FREE: Skin Hack Only)",
+    "description": "Mod v8 - New Menu + Strong Bypass",
     "status": "available",
     "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8.zip",
     "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v8free.zip",
@@ -82,6 +85,10 @@
       "Skin Hack Lobby",
       "Wall Hack",
       "Ipad View"
+    ],
+    "featuresFree": [
+      "Skin Hack Ingame",
+      "Skin Hack Lobby"
     ]
   },
   {
@@ -89,7 +96,7 @@
     "name": "Mod v9",
     "version": "v9",
     "author": "Takoro",
-    "description": "Mod v9 - UI Menu Ultimate Edition New Bypass (VIP & FREE)",
+    "description": "Mod v9 - UI Menu Ultimate Edition New Bypass",
     "status": "available",
     "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9.zip",
     "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v9free.zip",
@@ -114,6 +121,11 @@
       "Skin Hack Lobby",
       "Wall Hack",
       "Ipad View"
+    ],
+    "featuresFree": [
+      "Skin Hack Ingame",
+      "Skin Hack Lobby",
+      "Ipad View"
     ]
   },
   {
@@ -127,6 +139,7 @@
     "urlFree": "",
     "reviewImagesVip": [],
     "reviewImagesFree": [],
-    "features": []
+    "features": [],
+    "featuresFree": []
   }
 ]
