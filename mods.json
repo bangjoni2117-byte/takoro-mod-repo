@@ -137,17 +137,17 @@
     "version": "v10",
     "author": "Takoro",
     "description": "Mod v10 - Coming Soon 17-Oct-2026",
-    "status": "available",
+    "status": "coming-soon",
     "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v10.zip",
     "urlFree": "",
     "reviewImagesVip": [
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_1.png",
       "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_2.png",
-      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_3.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v9_3.png"
     ],
     "reviewImagesFree": [],
     "features": [
-      "Menu In Setting"
+      "Menu In Setting",
       "AimTouch Pro",
       "ESP Full",
       "Radar Esp",
