@@ -159,5 +159,47 @@
       "Ipad View"
     ],
     "featuresFree": []
+  },
+  {
+    "id": "v11",
+    "name": "Mod v11",
+    "version": "v11",
+    "author": "Takoro",
+    "description": "Mod v11 - Latest Edition Ultimate New Bypass",
+    "status": "available",
+    "urlVip": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v11.zip",
+    "urlFree": "https://github.com/bangjoni2117-byte/takoro-mod-repo/raw/main/v11free.zip",
+    "reviewImagesVip": [
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v11_1.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v11_2.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v11_3.png"
+    ],
+    "reviewImagesFree": [
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v11_free_1.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v11_free_2.png",
+      "https://raw.githubusercontent.com/bangjoni2117-byte/takoro-mod-repo/main/review_v11_free_3.png"
+    ],
+    "features": [
+      "AimTouch Pro",
+      "ESP Full",
+      "Radar Esp",
+      "Health Bar Esp",
+      "Distance Esp",
+      "Compensasi Recoil",
+      "Skin Hack Ingame",
+      "Skin Hack Lobby",
+      "Wall Hack",
+      "Ipad View"
+    ],
+    "featuresFree": [
+      "AimTouch Pro",
+      "ESP Full",
+      "Radar Esp",
+      "Health Bar Esp",
+      "Distance Esp",
+      "Compensasi Recoil",
+      "Wall Hack",
+      "Ipad View"
+    ]
   }
 ]
